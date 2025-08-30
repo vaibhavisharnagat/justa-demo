@@ -1,4 +1,4 @@
 # justa-demo
-this is my very first git repository.
+This is my very First Git repository.
 <br>
 Author - Vaibhavi Sharnagat 
